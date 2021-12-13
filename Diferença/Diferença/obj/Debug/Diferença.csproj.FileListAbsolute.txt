@@ -1,0 +1,7 @@
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\bin\Debug\Diferença.exe.config
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\bin\Debug\Diferença.exe
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\bin\Debug\Diferença.pdb
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\obj\Debug\Diferença.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\obj\Debug\Diferença.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\obj\Debug\Diferença.exe
+C:\Users\aluno1\Source\Repos\Diferença\Diferença\obj\Debug\Diferença.pdb
